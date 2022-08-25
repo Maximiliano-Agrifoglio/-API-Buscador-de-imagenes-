@@ -1,3 +1,3 @@
 
-Buscador de imágenes Pixabay con paginador incluido
+Buscador de imágenes Pixabay con paginador incluido.
 Proyecto hecho con javascript vanilla.
